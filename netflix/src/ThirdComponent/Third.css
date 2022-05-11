@@ -1,0 +1,26 @@
+.third_section{
+    display: flex;
+    justify-content: space-between;
+    padding: 5rem ;
+    background-color: black;
+    color: #fff;
+
+}
+.third_img{
+    text-align: center;
+    
+}
+.third_img img{
+    width: 100%;
+}
+
+.third_section h1{
+
+    margin-top: 100px;
+    text-align: center;
+    margin-bottom: 30px;
+}
+h4{
+    text-align: center;
+    padding: 0 10rem;
+}
